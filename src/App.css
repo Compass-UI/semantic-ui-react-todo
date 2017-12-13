@@ -7,3 +7,20 @@
 .App {
   text-align: left;
 }
+
+.main-text {
+  box-sizing: border-box;
+  color: rgb(54, 103, 208);
+  height: 30.4px;
+  text-decoration: none solid rgb(54, 103, 208);
+  text-size-adjust: 100%;
+  width: 380px;
+  column-rule-color: rgb(54, 103, 208);
+  perspective-origin: 190px 15.2px;
+  transform-origin: 190px 15.2px;
+  caret-color: rgb(54, 103, 208);
+  border: 0px none rgb(54, 103, 208);
+  font: normal normal 400 normal 28px / 30.8px "Open Sans", "Sans Serif";
+  margin: 17px 0px 8.5px;
+  outline: rgb(54, 103, 208) none 0px;
+}/*#main-text*/

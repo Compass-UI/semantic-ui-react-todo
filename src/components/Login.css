@@ -2,11 +2,11 @@
     display: flex;
   }
   
-  .Login .TodoText {
+  .Login .Title {
     flex-grow: 2;
   }
   
-  .Login .TodoButton {
+  .Login .Button {
     flex-grow: 1;
   }
   

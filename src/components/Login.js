@@ -10,8 +10,8 @@ const Login = () => (
 	<h1 id="H1_2">
 		Contact Center Login
 	</h1>
-	<div id="DIV_3">
-		<form name="loginForm" id="FORM_4">
+	<div id="DIV_3" className="Login">
+		<form className="Login" name="loginForm" id="FORM_4">
 			<div id="DIV_5">
 				<ul id="UL_6">
 					<li id="LI_7">

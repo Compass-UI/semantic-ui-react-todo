@@ -8,7 +8,7 @@ import './App.css'
 
 const App = () => (
   <div className="AppContainer">
-    <h1>Compass Admin Console</h1>
+    <h1 className="main-text">Compass Admin Console</h1>
     <div className="App">
       <Login />
       <AddTodo />
